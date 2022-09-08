@@ -1,5 +1,7 @@
 # EcommerceStore
 
+Watch tutorial on how I built this store => https://youtu.be/-QV07KcnJEk
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.0.
 
 ## Development server
